@@ -13,7 +13,7 @@
 
 ---
 [Guessing Game](http://example.com/)
-<img src="GuessingGame.JPG?raw=true"/>
+<img src="images/GuessingGame.JPG?raw=true"/>
 
 ---
 
