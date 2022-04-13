@@ -22,7 +22,7 @@ The Store Application is an application that allows you as the "Customer" to cho
 
 ### 3. Guessing Game:
 
-The Guessing Game Application is an application where you as the "Player" have to try and guess what word that the "NPC" is thinking of. The main three words that I had selected for this were: cat, hat, and rat. Each time the game resets, one of those three words are chosen at random so the player cannot just guess the words until the find the right one at the start. 
+The Guessing Game Application is an application where you as the "Player" have to try and guess what word that the "NPC" is thinking of. The main three words that I had selected for this were: cat, hat, and rat. Each time the game resets, one of those three words are chosen at random so the player cannot just guess the words until they find the right one at the start. 
 
 <img src="images/GuessingGame.JPG?raw=true"/>
 
