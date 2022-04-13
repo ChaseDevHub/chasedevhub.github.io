@@ -9,20 +9,15 @@
 
 ---
 [Store Application](/sample_page)
-<img src="images/StoreApplication.JPG?raw=true"/>
 
 ---
 [Guessing Game](/sample_page)
-<img src="images/GuessingGame.JPG?raw=true"/>
 
 ---
 [Madlib Generator](/sample_page)
-<img src="images/MadLibHome.JPG?raw=true"/>
-
 
 ---
 [Substitution Cipher](/sample_page)
-
 
 ---
 
