@@ -13,16 +13,18 @@ This project was fun to work on, there were some struggles, but I managed to get
 <img src="images/LOTMIngame2.JPG?raw=true"/>
 
 <img src="images/LOTMIngame3.JPG?raw=true"/>
+
 ### 2. Store Application:
 
 The Store Application is an application that allows you as the "Customer" to choose one of the four options of items to purchase from Costoc Wholesale. When you first run the application, you are greeted with a Welcome message and then are asked what your name is. After inputing your name you are then greeted with a hello and you are then asked to choose one of the four food options that you would like to purchase. 
 
 <img src="images/StorePurchase.JPG?raw=true"/>
 
+### 3. Guessing Game:
 
-### 3. Support the selection of appropriate statistical tools and techniques
+The Guessing Game Application is an application where you as the "Player" have to try and guess what word that the "NPC" is thinking of. The main three words that I had selected for this were: cat, hat, and rat. Each time the game resets, one of those three words are chosen at random so the player cannot just guess the words until the find the right one at the start. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/GuessingGame.JPG?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
