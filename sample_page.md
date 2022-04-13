@@ -30,6 +30,7 @@ The Guessing Game Application is an application where you as the "Player" have t
 
 The Madlib Generator Application is an application where you as the "player" insert a specific, noun, adjective, or occupation when asked by the application. After you have input your desired words for each specified type, the program will put your desired words to fill in the blanks of a written story. This application has so much unlimited potential to come up funny short stories. Take a look below to see what came out of my word selections: 
 
+<img src="images/MadLibHome.JPG?raw=true"/>
 <img src="images/MadLib.JPG?raw=true"/>
 
 ### 5. Substitution Cipher:
