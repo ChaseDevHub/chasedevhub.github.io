@@ -5,7 +5,7 @@
 ### School Projects:  
 
 [Legend of the Mage](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/LegendoftheMageHomeScreen.JPG?raw=true"/>
 
 ---
 [Store Application](/pdf/sample_presentation.pdf)
