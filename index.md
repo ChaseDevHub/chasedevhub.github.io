@@ -9,7 +9,7 @@
 
 ---
 [Store Application](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/StoreApplication.JPG?raw=true"/>
 
 ---
 [Tip Calculator](http://example.com/)
