@@ -22,7 +22,7 @@
 
 ---
 [Substitution Cipher](http://example.com/)
-<img src="images/SecretDecoder.JPG?raw=true"/>
+
 
 ---
 
