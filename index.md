@@ -12,7 +12,7 @@
 <img src="images/StoreApplication.JPG?raw=true"/>
 
 ---
-[Tip Calculator](http://example.com/)
+[Guessing Game](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
