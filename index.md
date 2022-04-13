@@ -21,8 +21,8 @@
 <img src="images/MadLib.JPG?raw=true"/>
 
 ---
-[Placeholder for Project 5](http://example.com/)
-<img src="images/GuessingGame.JPG?raw=true"/>
+[Substitution Cipher](http://example.com/)
+<img src="images/SecretDecoder.JPG?raw=true"/>
 
 ---
 
