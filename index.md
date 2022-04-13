@@ -16,8 +16,9 @@
 <img src="images/GuessingGame.JPG?raw=true"/>
 
 ---
-[Placeholder for Project 4](http://example.com/)
-<img src="images/GuessingGame.JPG?raw=true"/>
+[Madlib Generator](http://example.com/)
+<img src="images/MadLibHome.JPG?raw=true"/>
+<img src="images/MadLib.JPG?raw=true"/>
 
 ---
 [Placeholder for Project 5](http://example.com/)
