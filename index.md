@@ -16,6 +16,14 @@
 <img src="images/GuessingGame.JPG?raw=true"/>
 
 ---
+[Placeholder for Project 4](http://example.com/)
+<img src="images/GuessingGame.JPG?raw=true"/>
+
+---
+[Placeholder for Project 5](http://example.com/)
+<img src="images/GuessingGame.JPG?raw=true"/>
+
+---
 
 ### Category Name 2
 
