@@ -8,20 +8,20 @@
 <img src="images/LegendoftheMageHomeScreen.JPG?raw=true"/>
 
 ---
-[Store Application](/pdf/sample_presentation.pdf)
+[Store Application](/sample_page)
 <img src="images/StoreApplication.JPG?raw=true"/>
 
 ---
-[Guessing Game](http://example.com/)
+[Guessing Game](/sample_page)
 <img src="images/GuessingGame.JPG?raw=true"/>
 
 ---
-[Madlib Generator](http://example.com/)
+[Madlib Generator](/sample_page)
 <img src="images/MadLibHome.JPG?raw=true"/>
 
 
 ---
-[Substitution Cipher](http://example.com/)
+[Substitution Cipher](/sample_page)
 
 
 ---
