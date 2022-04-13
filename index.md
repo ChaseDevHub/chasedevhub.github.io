@@ -18,7 +18,7 @@
 ---
 [Madlib Generator](http://example.com/)
 <img src="images/MadLibHome.JPG?raw=true"/>
-<img src="images/MadLib.JPG?raw=true"/>
+
 
 ---
 [Substitution Cipher](http://example.com/)
