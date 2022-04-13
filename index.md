@@ -1,8 +1,8 @@
-## Portfolio
+## Programming Showcase: 
 
 ---
 
-### Category Name 1 
+### School Projects:  
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
