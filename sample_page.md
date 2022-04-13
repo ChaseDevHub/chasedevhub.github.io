@@ -32,7 +32,11 @@ The Madlib Generator Application is an application where you as the "player" ins
 
 <img src="images/MadLib.JPG?raw=true"/>
 
+### 5. Substitution Cipher:
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The Substitution Cipher application is an application where the "player" is asked whether they would like to encode or decode a message. When the player chooses option one to encode, you will enter your message and then the cipher will encode your message. Below your message you wanted to encode will be the encoded message, which is when you want the decode option to come into play. If you want to decode your message you will need to select option two. After selecting option two, you will be asked to input your encoded message so the application can decode it, and once you are done typing in your encoded secret message hit enter and it will decode it revealing your secret message. 
+
+<img src="images/SecretDecoder.JPG?raw=true"/>
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
